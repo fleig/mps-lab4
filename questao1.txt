@@ -1,0 +1,7 @@
+A classe Invoker, representa o Executor, responsável por executar o comando e o dao passados como parâmtros na função invoke.
+
+A Classe Client2 é o Cliente, já que cria os comandos.
+
+Dao1 e Dao6 implementam a interface DAO
+
+CommandImpl implementa a interface Command
